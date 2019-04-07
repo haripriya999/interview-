@@ -1,0 +1,164 @@
+[
+	{
+		"question":"What is a Data Structure?"
+	
+	},
+{
+		"question": "What are linear and non linear data Structures?"
+		
+	},
+
+{
+		"question": "What are the various operations that can be performed on different Data Structures?"
+		
+	},
+
+{
+		"question": "How is an Array different from Linked List?"
+	
+	},
+
+{
+		"question": "What is Stack and where it can be used?"
+		
+	},
+
+{
+		"question": "What is a Queue, how it is different from stack and how is it implemented?"
+		
+	},
+
+{
+		"question": "What are Infix, prefix, Postfix notations?"
+		
+	},
+
+{
+		"question": "What is a Linked List and What are its types?"
+		
+	},
+
+{
+		"question": "Which data structures are used for BFS and DFS of a graph?"
+		
+	},
+
+{
+		"question": "Can doubly linked be implemented using a single pointer variable in every node?"
+		
+	},
+
+{
+		"question": "How to implement a stack using queue?"
+		
+	},
+
+{
+		"question": "How to implement a queue using stack?"
+	
+	},
+
+{
+		"question": "Which Data Structure Should be used for implementiong LRU cache?"
+	
+	},
+
+{
+		"question": "How to check if a given Binary Tree is BST or not?"
+		
+	},
+
+{
+		"question": "how do you detect Loop in a Linked List"
+		
+	},
+
+{
+		"question": "Which data structure is used for dictionary and spell checker?"
+		
+	},
+
+{
+		"question": " Implement a stack with push(), pop() and min() in O(1) time."
+		
+	},
+
+{
+		"question": " Reverse a linked list in groups of size k "
+		
+	},
+
+{
+		"question": "How do you Rotate a matrix by 90 degree?"
+		
+	},
+
+{
+		"question": " Remove duplicates from a string, do it in-place"
+		
+	},
+{
+		"question": "Given two linked lists that represent two big numbers (numbers that can not be stored in an int or long long int), write a function that adds the numbers and store the result in a third list." 
+		
+	},
+
+{
+		"question": "Clone a linked list with next and arbitrary (or random) pointer"
+		
+	},
+
+{
+		"question": " What are encapsulation, Inheritance, polymorphism and abstraction?"
+		
+	},
+
+{
+		"question": "Explain Runtime Polymorhism"
+	
+	},
+
+{
+		"question": "What are inner and outer joins? Examples of both."
+		
+	},
+{
+		"question": "What are advantages of DBMS over traditional file based systems?"
+	
+	},
+     {
+		"question": "What are super, primary, candidate and foreign keys?"
+	
+	},
+    {
+		"question": "What is the difference between primary key and unique constraints?"
+		
+	},
+{
+		"question": "What is database normalization?"
+		
+	},
+{
+		"question": "What are the differences between DDL, DML and DCL in SQL?"
+		
+	},
+{
+		"question": "What is the difference between Trigger and Stored Procedure?"
+		
+	},
+{
+		"question": "What are clustered and non-clustered Indexes?"
+		
+	},
+{
+		"question": "Tell me about your final year project?"
+		
+	},
+{
+		"question": "What are OSI Layers?"
+		
+	},
+{
+		"question": "Find the nth element of spiral matrix "
+
+	}
+]
